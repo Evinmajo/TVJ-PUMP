@@ -5,7 +5,7 @@ const StaffAdminLinks = () => {
   // Styles for the background image and font family from the original <body>
   const backgroundStyles = {
     fontFamily: "'Inter', sans-serif",
-    backgroundImage: "url('../../public/indianoil_PhotoGrid.png')",
+    backgroundImage: "url('https://media.assettype.com/psuwatch/import/wp-content/uploads/2022/02/881810150_5eab012086a05.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true')",
     backgroundSize: 'cover',
     backgroundRepeat: 'no-repeat',
     backgroundPosition: 'center',
